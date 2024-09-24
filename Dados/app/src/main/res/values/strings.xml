@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">¡Dados!</string>
+    <string name="number_dices">Numero de dados (Max. 6)</string>
+    <string name="number_sides">Numero de caras</string>
+    <string name="roll">Lanza!</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Compose_2nd_project</string>
+    <string name="futurama_title">Futurama</string>
+    <string name="simpsons_title">Simpsons</string>
+    <string name="simpsons_data">Matt Groening, 1989</string>
+    <string name="futurama_data">M. Groening, D. Cohen, 1997</string>
+    <string name="family_guy_title">Padre de família</string>
+    <string name="family_guy_data">Seth MacFarlane, 1999</string>
+</resources>
